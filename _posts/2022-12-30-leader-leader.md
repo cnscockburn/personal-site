@@ -10,7 +10,7 @@ categories: leadership
 # Models of Leadership — “leader-leader”
 This blog explores a recent book I read written by a retired US Navy Submarine Captain L. David Marquet entitled “Turn the Ship Around!”, and the leader-leader model of leadership he establishes and describes the implementation of into the USS Santa Fe SSN.
 
-![a picture of a submarine in the distance](/assets/img/distance-sub.jpg)
+<img src="/assets/img/distance-sub.jpg" alt="a picture of a surface submarine in the distance" width=800px/>
 
 ## The Problem with “Leader-Follower”
 Marquet starts by establishing the problem: the lack of ownership amongst his workforce. The reason, he attributes, is the leader-follower model of leadership shown within the Navy and within most organizations. The leader is in control, is accountable, and so leaders are encouraged to limit the decision-making authority of those who work for them. Employees have little incentive to innovate and find solutions that support the overall organizational goals. Traditional accountability structures also tie the performance of the organization to the performance of the leader, and vice versa, so that when leaders leave the organization is worse off.
