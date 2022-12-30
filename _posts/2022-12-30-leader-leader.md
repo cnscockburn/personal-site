@@ -10,12 +10,13 @@ categories: leadership
 # Models of Leadership — “leader-leader”
 This blog explores a recent book I read written by a retired US Navy Submarine Captain L. David Marquet entitled “Turn the Ship Around!”, and the leader-leader model of leadership he establishes and describes the implementation of into the USS Santa Fe SSN.
 
-![a picture of a submarine in the distance][assets/img/distance-sub.jfif]
+![a picture of a submarine in the distance](assets/img/distance-sub.jfif)
 
 ## The Problem with “Leader-Follower”
 Marquet starts by establishing the problem: the lack of ownership amongst his workforce. The reason, he attributes, is the leader-follower model of leadership shown within the Navy and within most organizations. The leader is in control, is accountable, and so leaders are encouraged to limit the decision-making authority of those who work for them. Employees have little incentive to innovate and find solutions that support the overall organizational goals. Traditional accountability structures also tie the performance of the organization to the performance of the leader, and vice versa, so that when leaders leave the organization is worse off.
 
 He presents the implementation of a leader-leader structure — where his staff are truly empowered to make their own decisions and take responsibility for their divisions. This decouples the leader’s personality and presence from the performance of the organization as a whole, meaning that the improvements continue even after the leader moves on.
+
 
 ## Control, Clarity, Competence
 Marquet discusses the changes he made as CO of the Santa Fe, and splits these mechanisms into 3 categories: control, clarity, and competence.
@@ -24,7 +25,9 @@ His primary aim was to divest control by “moving the authority to the informat
 
 The rest of this review blog will introduce a couple of these mechanisms for each category, and give a summary of the example given in the book. There are many more mechanisms discussed in detail in the book, and I highly recommend you read it in full. Finally, I will discuss how these principles and mechanisms can be integrated into business organizations, particularly from my perspective in consultancy.
 
+
 ## Principles of Control
+
 ### FIND THE GENETIC CODE AND REWRITE IT
 
 Each organization will have a structure for delegating control. Most initiatives for empowerment will work within this structure — i.e. changing the details of who exactly approves something, but ultimately flowing responsibility back up to the top. Any directed empowerment programme will ultimately fail — because by directing something to happen you are fundamentally disempowering those you intend to empower. Instead, Marquet believes that you have to fundamentally rewrite the power structures and authority delegation
@@ -45,7 +48,9 @@ There are multiple phrases that exhibit this disempowerment: “Request permissi
 
 It’s also important to note that the reasoning behind why someone wants to do something is also important. Marquet also details the second stage that he took with his officers and men — the “I intend to…” request should also contain enough extra detail about the reasoning and caveats to it that all it should require as a response is “Very well”.
 
+
 ## Principles of Competence
+
 ### TAKE DELIBERATE ACTION
 
 Marquet starts this section by discussing a review of a major safety breach by a petty officer during an inspection. They discuss how it could be prevented and identified it was a “automatic mistake” — a mistake caused by operating on autopilot, and by default. They identified that following procedures blindly was a key cause of mistakes, and by carrying out tasks immediately, it prevents the correction of mistakes by any level of supervision. They instituted a policy of “take deliberate action” — before completing any action, operators began to pause, vocalize what they were about to do, then complete the action. This means that thought is necessary for every action, and also allows the appropriate time for dissent or intervention.
@@ -62,7 +67,9 @@ Marquet instead proposed the certification concept. At the decision point before
 
 This is a common message, but worth repeating. No amount of procedure or doctrine matters if the objective is not achieved. Marquet particularly emphasized the importance of this during emergency response, such as the response to a fire. The damage control officer sets the goals over the PA, and individual officers, teams, chiefs, and enlisted men make decisions about how best to achieve that objective. This decentralization speeds up decision making, improves the decisions made, and relieves the burden of issuing specific orders from senior leadership, so they can focus on the overall response.
 
+
 ## Principles of Clarity
+
 ### ACHIEVE EXCELLENCE, DON’T JUST AVOID ERRORS
 
 Avoidance of errors is a noble pursuit. Errors cost money, time, lives, outcomes. But the avoidance of errors over all else creates a culture of risk-avoidance by inaction and creates a destiny of failure, as you can never remove all errors. Success will be benchmarked as a negative, an avoidance of failure — as Marquet states: “your success is no punishment”.
@@ -84,12 +91,15 @@ Marquet emphasizes throughout the book the need to have long-term thinking strat
 - Ensure that your leadership team make long-term strategic plans (3–5 years). This is particularly relevant in contract or time-limited work, even though the time pressure it seems to reduce in importance.
 - Ensure that employee evaluations are written with measureable metrics. If you can’t measure your metrics, then you’re using the wrong metrics!
 - Ask your employees to write their evaluations for 1, 2, or 3 years in the future, which gives a structure and a framework for them to work towards.
+
+
 ## Discussion and Conclusions
+
 ### IMPACT
 
 Marquet finally sets out the remarkable impact that these actions have had. The most important things is that these improvements were not around the success of himself as a Captain. His personnel were much more successful as well — particularly the increases in enlisted personnel advancement, and the shortened time to qualify in submarines. In addition, these improvements continued after he was no longer in command, due to the skills and attitude developed in everyone on board. For example, the submarine won the “Best E” award for the most combat-effective submarine in the squadron 3 times in the decade after he left.
 
-![a list of outcomes in one year after the changes Marquet made. All postitive.][assets/img/leader-leader-impact.webp]
+![a list of outcomes in one year after the changes Marquet made. All postitive.](assets/img/leader-leader-impact.webp)
 
 The evidence is clear — the leader-leader approach builds powerful, effective leaders at every level of the hierarchy, builds resilient, effective organizations, and actually empowers employees.
 
